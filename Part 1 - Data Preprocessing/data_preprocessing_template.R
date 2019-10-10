@@ -3,7 +3,7 @@
 # Importing the dataset
 dataset = read.csv('Data.csv')
 
-# Splitting the dataset into the Training set and Test set
+# Splitting the dataset into the Training set and Test Set
 # install.packages('caTools')
 library(caTools)
 set.seed(123)
