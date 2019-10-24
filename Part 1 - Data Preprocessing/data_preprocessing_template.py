@@ -22,3 +22,4 @@ X_test = sc_X.transform(X_test)
 sc_y = StandardScaler()
 y_train = sc_y.fit_transform(y_train)"""
 # will be editing code in kotlin
+# creating sequence part in c++
